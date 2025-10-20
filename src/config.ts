@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "简历",
-			url: "https://luohongkun.top/resume/", // Internal links should not include the base path, as it is automatically added
+			url: "https://luohongkun.top/me/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
@@ -67,7 +67,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "oui:globe", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://luohongkun.top/resume/",
+			url: "https://luohongkun.top/me/",
 		},
 		{
 			name: "Wechat",
