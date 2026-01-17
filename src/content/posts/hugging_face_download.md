@@ -6,13 +6,13 @@ tags: [技术分享, 关于编程]
 category: Examples
 draft: false
 ---
-## 安装python库
+## 1 安装python库
 
 ```Python
 pip install huggingface_hub
 ```
 
-## 获取token
+## 2 获取token
 
 去如下网站创建一个Access token
 
@@ -20,13 +20,13 @@ pip install huggingface_hub
 
 创建完成后会有一个形式如：hf_aUVChYVUuuXXXXX的token。后面要用到的
 
-## 创建python脚本
+## 3 创建python脚本
 
 ```python
 touch download_huggingface.py
 ```
 
-## 填充脚本内容（下载整个仓库）
+## 4 填充脚本内容（下载整个仓库）
 
 这里就根据自己的实际情况填写：
 
@@ -55,11 +55,11 @@ print("模型下载到本地路径:", local_dir)
 
 ```
 
-## 填充脚本内容（下载单个文件）
+## 5 填充脚本内容（下载单个文件）
 
 直接点击下载
 
-## 填充脚本内容（下载子文件夹）
+## 6 填充脚本内容（下载子文件夹）
 
 说明：如果是datasets类型的仓库必须要 repo_type="dataset",；如果不是数据类型的仓库就不用了。
 
