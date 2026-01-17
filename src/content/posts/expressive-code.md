@@ -7,12 +7,14 @@ category: Examples
 draft: false
 ---
 
-![笔记图片](../../../public/images/posts/attachments/expressive%20copy/file-20260117222803879.png)
+![笔记图片](/attachments/expressive%20copy/file-20260117222803879.png)
 Here, we'll explore how code blocks look using [Expressive Code](https://expressive-code.com/). The provided examples are based on the official documentation, which you can refer to for further details.
 
 ## 1 Expressive Code
 
-![笔记图片](https://raw.githubusercontent.com/luohongk/fuwari/main/public/images/posts/attachments/expressive-code/file-20260117233428341.png)
+![笔记图片](/attachments/expressive-code/file-20260117234032874.png)
+
+
 
 ### 1.1 Syntax Highlighting
 
