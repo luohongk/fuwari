@@ -13,6 +13,12 @@ Here, we'll explore how code blocks look using [Expressive Code](https://express
 
 ### 1.1 Syntax Highlighting
 
+
+![[attachments/expressive copy/file-20260117222803879.png]]
+
+
+![[attachments/expressive copy/file-20260117222847557.png]]
+
 [Syntax Highlighting](https://expressive-code.com/key-features/syntax-highlighting/)
 
 #### 1.1.1 Regular syntax highlighting
