@@ -12,7 +12,7 @@ Here, we'll explore how code blocks look using [Expressive Code](https://express
 
 ## 1 Expressive Code
 
-![笔记图片](../../../public/images/posts/attachments/expressive-code/file-20260117232527261.png)
+![笔记图片](https://raw.githubusercontent.com/luohongk/fuwari/main/public/images/posts/attachments/expressive-code/file-20260117233428341.png)
 
 ### 1.1 Syntax Highlighting
 
