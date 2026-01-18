@@ -9,6 +9,7 @@ category: 技术分享类
 draft: false
 ---
 ## 1 安装python库
+## 1 安装python库
 
 ```Python
 pip install huggingface_hub
