@@ -2,8 +2,10 @@
 title: 如何在hugging face下载数据与模型
 published: 2025-10-18
 description: 本次帖子将系统展示如何中国人在hugging face下载数据与模型
-tags: [技术分享, 关于编程]
-category: Examples
+tags:
+  - 技术分享
+  - 关于编程
+category: 技术分享类
 draft: false
 ---
 ## 1 安装python库

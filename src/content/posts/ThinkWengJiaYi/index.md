@@ -5,7 +5,7 @@ description: B站WhynotTV思考
 image: ./cover.png
 tags:
   - 个人思考
-category: Guides
+category: 个人感受类
 draft: false
 ---
 
