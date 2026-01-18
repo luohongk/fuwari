@@ -17,8 +17,6 @@ draft: false
 
 ![image.png](https://raw.githubusercontent.com/luohongk/picgo-img/main/20260118200517654.png)
 
-
-
 ```C++
 class Solution {
 public:
@@ -66,11 +64,9 @@ public:
 };
 ```
 
-
 ## 2 使用动态规划优化时间复杂度
 
 ![image.png](https://raw.githubusercontent.com/luohongk/picgo-img/main/20260118200541018.png)
-
 
 ```C++
 class Solution {
@@ -105,13 +101,9 @@ public:
 };
 ```
 
-
-
-
 ## 3 双指针解法
 
 ![image.png](https://raw.githubusercontent.com/luohongk/picgo-img/main/20260118200608993.png)
-
 
 ```C++
 class Solution {
@@ -146,3 +138,4 @@ public:
         return water;
     }
 };
+```
