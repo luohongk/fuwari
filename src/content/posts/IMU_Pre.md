@@ -26,6 +26,6 @@ draft: false
 ## 3 基本的测量模型
 
 陀螺仪：
-$$\begin{equation} \tilde{\boldsymbol{\omega}}_{wb}^b(t) = \boldsymbol{\omega}_{wb}^b(t) + \mathbf{b}_g(t) + \boldsymbol{\eta}_g(t) \end{equation}$$
+$$\tilde{\boldsymbol{\omega}}_{wb}^b(t) = \boldsymbol{\omega}_{wb}^b(t) + \mathbf{b}_g(t) + \boldsymbol{\eta}_g(t) $$
 加速度计：
-$$\begin{equation} \tilde{\boldsymbol{f}}^b(t) = \boldsymbol{C}_b^{w\mathrm{T}} \bigl( \boldsymbol{a}^w + \boldsymbol{g}^w \bigr) + \mathbf{b}_a(t) + \boldsymbol{\eta}_a(t) \end{equation}$$
+$$ \tilde{\boldsymbol{f}}^b(t) = \boldsymbol{C}\_b^{w\mathrm{T}} \bigl( \boldsymbol{a}^w + \boldsymbol{g}^w \bigr) + \mathbf{b}\_a(t) + \boldsymbol{\eta}\_a(t)$$
