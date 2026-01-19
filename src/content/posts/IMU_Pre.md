@@ -12,8 +12,9 @@ draft: false
 ## 1 致敬
 
 首先致敬优秀的前辈优秀的工作。给后来者铺路搭桥。
+
 [🌐 IMU预积分(四)——VINS-mono中的预积分](https://gutsgwh1997.github.io/2020/05/04/IMU%E9%A2%84%E7%A7%AF%E5%88%86-%E5%9B%9B/)
-[🌐 预积分总结与公式推导20180827.pdf]([IMU-Preintegration-Propogation-Doc/预积分总结与公式推导20180827.pdf at master · PetWorm/IMU-Preintegration-Propogation-Doc · GitHub](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc/blob/master/%E9%A2%84%E7%A7%AF%E5%88%86%E6%80%BB%E7%BB%93%E4%B8%8E%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC20180827.pdf))
+[🌐 预积分总结与公式推导20180827.pdf](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc/blob/master/%E9%A2%84%E7%A7%AF%E5%88%86%E6%80%BB%E7%BB%93%E4%B8%8E%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC20180827.pdf)
 [🌐IMU 预积分 \| Jacob.lsx's Blog](https://sxij.xyz/posts/imu-preintegration/)
 [🌐港大郑纯然博士IMU预积分 (解闷版)](https://zhuanlan.zhihu.com/p/1911921324726649326)
 
