@@ -27,5 +27,6 @@ draft: false
 
 陀螺仪：
 $$\tilde{\boldsymbol{\omega}}_{wb}^b(t) = \boldsymbol{\omega}_{wb}^b(t) + \mathbf{b}_g(t) + \boldsymbol{\eta}_g(t) $$
+
 加速度计：
 $$ \tilde{\boldsymbol{f}}^b(t) = \boldsymbol{C}\_b^{w\mathrm{T}} \bigl( \boldsymbol{a}^w + \boldsymbol{g}^w \bigr) + \mathbf{b}\_a(t) + \boldsymbol{\eta}\_a(t)$$
